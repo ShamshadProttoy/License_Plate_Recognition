@@ -1,1 +1,1 @@
-# License_Plate_Recognition
+# Bangla Text Extraction from License_Plate
